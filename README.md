@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RainZerg</h1>
+<h1 align="center">Hi 👋, I'm Valeryy</h1>
 <h3 align="center">A passionate Junior Full Stack Developer with a love for ergonomic keyboards</h3>
 
 ### 🔭 I'm currently working on

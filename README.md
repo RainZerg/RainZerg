@@ -3,7 +3,7 @@
 
 ### 🔭 I'm currently working on
 - 🛒 E-commerce website using React and TypeScript
-- 🎥 Webinar platform at my current job
+- 🎥 Blazingly fast webinar platform using Astro + React, TypeScript and Redis at my current job
 
 ### 🌱 I'm currently learning
 - 🟦 TypeScript

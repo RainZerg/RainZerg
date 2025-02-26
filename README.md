@@ -42,7 +42,6 @@
 - 🐧 Linux ricing and customization (Arch BTW)
 - 📝 Neovim configuration and plugin development
 - 🛠️ Creating tools to improve development workflow
-- 🐳 Containerizing applications with Docker
 
 ### 📫 How to reach me
 <p align="left">
